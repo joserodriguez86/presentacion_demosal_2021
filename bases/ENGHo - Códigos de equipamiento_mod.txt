@@ -1,0 +1,28 @@
+"CODIGO"|"DESCRIPCION"|NOMBRE
+541101|"Cocina con horno"|cocina_horno
+541102|"Horno a microondas"|microondas
+541104|"Heladera con freezer"|hel_freezer
+541105|"Freezer"|freezer
+541106|"Lavavajilla"|lavavajilla
+541202|"Computadora"|computadora
+541203|"Conexión a Internet"|internet
+541205|"Televisor"|tv
+541207|"Video casetera/reproductora"|vhs
+541301|"Aspiradora"|aspiradora
+541302|"Estufa a gas tiro balanceado"|estufa_tiro
+541303|"Extractor de aire/purificador"|extractor
+541305|"Lavarropa no automático"|lavarropa
+541306|"Teléfono celular"|celular
+541307|"Teléfono inalámbrico"|telefono
+541308|"Termotanque"|termotanque
+541403|"Bicicleta"|bicicleta
+541103|"Heladera sin freezer"|hel_nofreezer
+541201|"Cámara fotográfica digital"|camara_dig
+541206|"Video cámara digital"|video_digital
+541304|"Lavarropa automático"|lavarropa_aut
+541401|"Automóvil"|auto
+541204|"DVD"|dvd
+541107|"Multiprocesadora"|multiprocesadora
+541402|"Camioneta"|camioneta
+541309|"Aire Acondicionado"|ac
+541404|"Moto, motocicleta, cuatriciclo"|moto

@@ -1,0 +1,50 @@
+"articulo"|"articulo_desc"|nombre
+541101|"Cocina a gas"|cocina_gas
+541102|"Anafe a gas"|anafe_gas
+541103|"Anafe eléctrico"|anafe_electrico
+541104|"Horno a gas"|horno_gas
+541105|"Horno eléctrico"|horno_electrico
+541106|"Microondas"|microondas
+541107|"Heladera con freezer"|hel_freezer
+541108|"Heladera sin freezer"|hel_nofreezer
+541109|"Freezer"|freezer
+541110|"Lavarropas automático"|lavarropa_aut
+541111|"Lavarropas semiautomático"|lavarropa
+541201|"Tv LED / LCD"|tv_led
+541202|"Tv tubo"|tv
+541203|"Computadora de Escritorio"|computadora
+541204|"Plancha"|plancha
+541205|"Bomba de pozo / cisterna"|bomba_pozo
+541301|"Calefón a gas con piloto automático"|calefon_gas_piloto
+541302|"Calefón a gas sin piloto automático"|calefon_gas_nopiloto
+541303|"Calefón eléctrico"|calefon_electrico
+541304|"Calefón solar – termotanque solar"|calefon_solar
+541305|"Termotanque a gas"|termotanque
+541306|"Termotanque eléctrico"|termotanque_electrico
+541307|"Ducha eléctrica"|ducha_electrica
+541308|"Agua caliente por caldera individual"|caldera_ind
+541309|"Agua caliente central"|caliente_central
+541401|"Split capacidad de calefacción hasta 3KW (2.600 Calorías)"|ac_calor_chico
+541402|"Split  capacidad de calefacción de más de 3KW (2.600 Calorías)"|ac_calor_grande
+541403|"Estufa / Calefactor a gas sin tiro balanceado"|estufa_tiro
+541404|"Estufa / Calefactor a gas con tiro balanceado"|estufa_notiro
+541405|"Estufa eléctrica (caloventor, radiador, convector, etc.)"|estufa_electrica
+541406|"Estufa a garrafa"|estufa_garrafa
+541407|"Hogar/ salamandra a leña"|hogar_leña
+541408|"Calefacción centralizada a gas"|calefaccion_gas_central
+541409|"Calefacción por losa radiante"|calefaccion_losa
+541410|"Calefacción por radiadores de agua"|calefaccion_radiador
+541411|"Estufa a kerosene"|estufa_kerosene
+541501|"Split capacidad de refrigeración hasta 3KW (2.600 frigorías)"|ac_frio_chico
+541502|"Split capacidad de refrigeración de más de 3KW (2.600 frigorías)"|ac_frio_grande
+541503|"Compacto tipo Ventana"|compacto
+541504|"Ventilador"|ventilador
+541505|"Sistema de refrigeración centralizado eléctrico"|refrigeracion_central
+541601|"Incandescentes"|incandencentes
+541602|"Halógenas"|halogenas
+541603|"Bajo consumo"|bajo_consumo
+541604|"Led"|led
+541605|"Tubo"|tubo
+541701|"Automóvil"|auto
+541702|"Camioneta"|camioneta
+541703|"Moto/motocicleta."|moto
